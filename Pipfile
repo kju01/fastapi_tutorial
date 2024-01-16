@@ -110,9 +110,9 @@ wincertstore = "==0.2"
 [requires]
 python_version = "3.9"
 python_full_version = "3.9.13"
-fastapi
-uvicorn
-sqlalchemy
-passlib
-bcrypt
-python-jose
+fastapi = "0.108.0"
+uvicorn = "0.25.0"
+sqlalchemy = "2.0.25"
+passlib = "1.7.4"
+bcrypt = "4.1.2"
+python-jose = "3.3.0"
